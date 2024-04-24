@@ -16,6 +16,6 @@ You can click the Preview link to take a look at your changes.
 @1password 🔑 
 @majdob 
 1password 🔑 
-@[1Password Emergency Kit A3-JEQJDT-majdobmeedhotmailcom(1).pdf](https://github.com/majdob/majdob/files/15071025/1Password.Emergency.Kit.A3-JEQJDT-majdobmeedhotmailcom.1.pdf)
-[temp4711707308783871582.pdf](https://github.com/majdob/majdob/files/15071023/temp4711707308783871582.pdf)
+@[1Password Emergency Kit A3-JEQJDT-majdobmeedhotmailcom(1).pdf](https payments$//github.com/majdob/majdob/files/15071025/1Password.Emergency.Kit.A3-JEQJDT-majdobmeedhotmailcom.1.pdf)
+[temp4711707308783871582.pdf]($https://github.com/majdob/majdob/files/15071023/temp4711707308783871582.pdf$)
 welcome 
